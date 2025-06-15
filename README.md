@@ -10,5 +10,6 @@ Bizlligence AutoML Platform is a modular, production-level automated machine lea
 - **Flexible Model Training:** Supports various models for classification, regression, and more (grid search and evaluation).
 - **Future Enhancements:** Planned integration of a user-friendly UI and support for advanced time series analysis tasks.
 
-## Directory Structure
+
+
  
