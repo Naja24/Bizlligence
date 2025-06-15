@@ -1,0 +1,51 @@
+# Core Libraries
+numpy
+pandas
+scipy
+
+# Machine Learning Frameworks
+scikit-learn
+
+# Semi-Supervised Learning
+sslearn
+
+# Deep Learning Frameworks
+tensorflow
+torch
+torchvision
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# AutoML and Hyperparameter Tuning
+xgboost
+lightgbm
+hyperopt
+
+# Model Deployment
+flask
+fastapi
+uvicorn
+
+# Data Preprocessing and Feature Engineering
+category_encoders
+imbalanced-learn
+missingno
+feature-engine
+
+# Utilities
+joblib
+tqdm
+cloudpickle
+pytest
+pyyaml
+
+# For Visualizations & Dashboards
+dash
+
+# Model Interpretability
+shap
+lime
+mlxtend
